@@ -1,0 +1,2 @@
+# About this project
+This is a university individual network project for designing and implementing a campus network topology. In this project, a simple network design for the medium-sized technology training school is implemented using Cisco Packet Tracer, a powerful simulation tool for designing networks. The necessary configurations and experiments will also be done with the use of Cisco Packet Tracer.
